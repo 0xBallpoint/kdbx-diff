@@ -1,4 +1,4 @@
-# kdbx_diff
+# kdbx-diff
 
 Compare two or three KeePass (KDBX) files and display added, removed, and modified entries.
 
